@@ -2,8 +2,8 @@
 
 <!--
 **MahenParameshwar/MahenParameshwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Mahen and I am a full stack developer.I am proficient at MERN satck and developing web application is my passion and gives me a lot of joy.
+My faviorite hobbies are reading comics and learning abiut space and wildlife
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
