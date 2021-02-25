@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Mahen and I am a full stack developer.I am proficient at MERN satck and developing web application is my passion and gives me a lot of joy.
-My faviorite hobbies are reading comics and learning abiut space and wildlife
+My faviorite hobbies are reading comics and learning about space and wildlife
 
 
 <!--
