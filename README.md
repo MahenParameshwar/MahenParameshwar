@@ -20,6 +20,12 @@ My faviorite hobbies are reading comics and learning about space and wildlife an
 ### 🔭 My Portfolio:
 Please checkout my portfolio [here](https://mahenparameshwar.github.io/Portfolio/)
 
+### Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahenparameshwar&show_icons=true&theme=dark&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahenparameshwar&count_private=true&theme=dark&layout=compact">
+</p>
 
 
 
