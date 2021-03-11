@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mahenparameshwar)
+
 ### Hi there 👋
 My name is Mahen and I am a full stack web developer.I am proficient at MERN satck. Developing web application is my passion as it gives me a lot of joy.
 I am currently looking for opportunities that will challenge me and hlep me to learn and grow as a web developer
